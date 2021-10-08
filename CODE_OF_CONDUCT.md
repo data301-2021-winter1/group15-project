@@ -27,8 +27,6 @@ Each member and contributor is required to read and understand the standards set
 
 2. Second offence will result in a warning, as well as discussion with parties involved.
 
-3. Third and final offence will result in contacting the appropriate people for further conversation and punishment. 
-
-it becomes a continous problem, they may be reported to the appropriate people. 
-
+3. Third and final offence will result in contacting the appropriate people for further conversation and punishment.
+ 
 ### **Collectively we will hold eachother accountable.**
