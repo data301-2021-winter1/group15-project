@@ -1,8 +1,7 @@
 #Sam's .py file
 import pandas as pd
-import numpy as np
 
-def clean_df(rawFile):
+def load_and_process(rawFile):
     df = pd.read_csv(rawFile)
     data_clean = (df.copy()
                   .drop(['atmo_opacity','wind_speed', 'id', 'terrestrial_date'], axis=1)
